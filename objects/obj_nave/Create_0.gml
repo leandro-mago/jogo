@@ -1,0 +1,1 @@
+nave_vida=3

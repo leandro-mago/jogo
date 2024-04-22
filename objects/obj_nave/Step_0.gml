@@ -21,3 +21,6 @@ if keyboard_check_pressed(vk_space){
     bala.direction = direction;
     bala.image_angle =direction; 
 }
+if nave_vida<0{
+    instance_destroy()
+}

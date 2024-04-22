@@ -40,6 +40,7 @@
     {"id":{"name":"obj_asteroide3","path":"objects/obj_asteroide3/obj_asteroide3.yy",},},
     {"id":{"name":"obj_nave","path":"objects/obj_nave/obj_nave.yy",},},
     {"id":{"name":"obj_projetil","path":"objects/obj_projetil/obj_projetil.yy",},},
+    {"id":{"name":"obj_pai","path":"objects/obj_pai/obj_pai.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_asteroide0","path":"sprites/spr_asteroide0/spr_asteroide0.yy",},},
     {"id":{"name":"spr_asteroide1","path":"sprites/spr_asteroide1/spr_asteroide1.yy",},},

@@ -22,6 +22,7 @@
     {"name":"obj_asteroide3","order":4,"path":"objects/obj_asteroide3/obj_asteroide3.yy",},
     {"name":"obj_nave","order":3,"path":"objects/obj_nave/obj_nave.yy",},
     {"name":"obj_projetil","order":5,"path":"objects/obj_projetil/obj_projetil.yy",},
+    {"name":"obj_pai","order":6,"path":"objects/obj_pai/obj_pai.yy",},
     {"name":"spr_asteroide0","order":4,"path":"sprites/spr_asteroide0/spr_asteroide0.yy",},
     {"name":"spr_asteroide2","order":1,"path":"sprites/spr_asteroide2/spr_asteroide2.yy",},
     {"name":"spr_asteroide3","order":2,"path":"sprites/spr_asteroide3/spr_asteroide3.yy",},
